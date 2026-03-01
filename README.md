@@ -1,0 +1,2 @@
+# Blockchain-ML-for-Quality-Evaluation-in-Agricultural-Supply-Chains
+This project integrates Blockchain and Machine Learning to enhance transparency, traceability, and quality evaluation in agricultural supply chains. It analyzes crop quality data using ML models and securely records verified results on blockchain. The system reduces fraud, builds stakeholder trust, and improves food safety from farm to consumer.
